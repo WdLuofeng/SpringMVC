@@ -28,6 +28,7 @@ public class EmployeeDao {
         employees.put(1007, new Employee(1005, "E-EE", "ee@163.com", 1));
         employees.put(1008, new Employee(1005, "E-EE", "ee@163.com", 1));
         employees.put(1009, new Employee(1005, "E-EE", "ee@163.com", 1));
+        employees.put(1010, new Employee(1005, "E-EE", "ee@163.com", 1));
     }
 
     private static Integer initId = 1006;
